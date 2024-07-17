@@ -21,5 +21,5 @@ DeFi-AI-Integration integrates AI capabilities with DeFi (Decentralized Finance)
 python main.py
 
 
-Replace `<repository_url>` with the actual URL of your GitHub repository once it's published. This README.md provides a clear overview of your project, its features, usage instructions, requirements, and licensing information. Adjust the content to match any additional details or specific functionalities your project offers.
+This README.md provides a clear overview of your project, its features, usage instructions, requirements, and licensing information. Adjust the content to match any additional details or specific functionalities your project offers.
 
