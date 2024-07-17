@@ -13,7 +13,7 @@ DeFi-AI-Integration integrates AI capabilities with DeFi (Decentralized Finance)
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/haleycromer/DeFi-AI-Integration>
    cd DeFi-AI-Integration
 
    pip install -r requirements.txt
